@@ -5,11 +5,11 @@
 
 # 🎗 Changelog
 ```
-1) Eclipse Compiler Added
-2) Aapt v1 Support
-3) Multidex Support (During Apk Building)
-4) Dx Merge (During Apk Building)
-5) Apk Signer
+1) Latest Builder Library Used
+2) File Picker Library Used
+3) New Ui
+4) 3 to 4 Dx Merge
+5) Aide Support
 
 ```
 
